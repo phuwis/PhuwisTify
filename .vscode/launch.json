@@ -1,0 +1,30 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch MusicPlayerMain",
+      "request": "launch",
+      "mainClass": "musicplayer.MusicPlayerMain",
+      "projectName": "MusicPlayer_679cf99a",
+      "vmArgs": "--module-path C:/Users/phuwi/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch musicPlayer",
+      "request": "launch",
+      "mainClass": "musicplayer.musicPlayer",
+      "projectName": "MusicPlayer_6f08c992",
+      "vmArgs": "--module-path C:/Users/phuwi/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+    }
+  ]
+}
