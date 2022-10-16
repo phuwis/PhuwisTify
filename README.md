@@ -1,4 +1,4 @@
 ﻿# PhuwisTify
-This project is homework at software development in RMUTR
+This project is the homework of Software Development at RMUTR
 
 
